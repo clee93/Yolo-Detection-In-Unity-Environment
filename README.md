@@ -4,7 +4,7 @@ Using the yolo neural net via python's cv2 inside a unity environment by passing
 * [Setup & Requirements](README.md#setup--requirements)
 * [Usage](README.md#usage)
 * [Common Problems](README.md#common-problems)
-* [References and Apprication](README.md#references-and-apprication)
+* [References and Appreciation](README.md#references-and-appreciation)
 
 ## Setup & Requirements
 **Requirements**
@@ -12,7 +12,7 @@ Using the yolo neural net via python's cv2 inside a unity environment by passing
 
 <br/>
 
-## References and Apprication
+## References and Appreciation
 Unity Fly Cam: https://assetstore.unity.com/packages/tools/camera/free-fly-camera-140739
 
 UDP Socket Networking Boiler Code: https://github.com/Siliconifier/Python-Unity-Socket-Communication
