@@ -13,7 +13,7 @@ Using the yolo neural net via python's cv2 inside a unity environment by passing
 <br/>
 
 **Setup**
-1. Unzip the weights found in `./YoloPythonServer/2ClassesTrained` and `./YoloPythonServer/12ClassesTrained`.
+1. Download the weights from releases and place them in their respective folders `./YoloPythonServer/2ClassesTrained` and `./YoloPythonServer/12ClassesTrained`.
 
 2. Create a Unity project and move the folders from `./UnityEnvironment` to their matching counterparts inside the project.  You may need to use operating system's file explorer to find the corresponding folders.  Unity's browser is limited to `Packages` and `Assets`.
     * i.e. move the content of the Assets in the github repository into Unity's Assets folder
